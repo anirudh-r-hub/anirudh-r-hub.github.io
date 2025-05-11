@@ -8,7 +8,7 @@ I am a Computer Science graduate with experience in C++, Java, Python, R, Spring
 
 - 🛠️ Skills: C, C++, Java, Python, HTML, CSS, JavaScript, JUnit, JSP, AWS, MySQL, PostgreSQL, MongoDB, R, SQLite, Jenkins, Groovy, Mockito, MQTT,  Android development, Prometheus, Grafana, Spring Boot, Django, Docker, Kafka, React
 - 💼 Currently: Seeking full-time opportunities in India
-- 📫 Contact: [My linkedin profile](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
+- 📫 Linkedin: [Anirudh Ramani](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
   
 ## 🎓 Education
 
@@ -44,7 +44,7 @@ Here are some of the projects featured on my website:
 ### 🧠 Project 1 - Job Listing Application
 - **Description:** This is a containerised full stack application which allows you to keep track of the jobs you have applied for.
 - **Tech Stack:** React, Spring Boot, MySQL, Docker
-- **GitHub:** https://github.com/anirudh-r-hub/joblist
+- **GitHub:** [Job-List](https://github.com/anirudh-r-hub/joblist)
 
 ### 📊 Project 2 - IoT Based Home Automation System
 - **Description:** This is a small IoT system to control household appliances using an Android App
@@ -53,7 +53,7 @@ Here are some of the projects featured on my website:
 ### 📂 Project 3 - PDFReadAloud
 - **Description:** An android application which reads out uploaded PDFs.
 - **Tech Stack:** Java, Android Studio, Google Text to Speech Library.
-- **GitHub:** https://github.com/anirudh-r-hub/PdfReader  
+- **GitHub:** [PDFReadALoud](https://github.com/anirudh-r-hub/PdfReader)  
 
 
 ## 📄 Resume
