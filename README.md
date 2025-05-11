@@ -8,7 +8,7 @@ I am a Computer Science graduate with experience in C++, Java, Python, R, Spring
 
 - 🛠️ Skills: C, C++, Java, Python, HTML, CSS, JavaScript, JUnit, JSP, AWS, MySQL, PostgreSQL, MongoDB, R, SQLite, Jenkins, Groovy, Mockito, MQTT,  Android development, Prometheus, Grafana, Spring Boot, Django, Docker, Kafka, React
 - 💼 Currently: Seeking full-time opportunities in India
-- 📫 Linkedin: [Anirudh Ramani](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
+- 👤 Profile: [LinkedIn](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
   
 ## 🎓 Education
 
