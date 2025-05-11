@@ -53,7 +53,7 @@ Here are some of the projects featured on my website:
 
 ## 📄 Resume
 
-You can download my resume from the [Resume](./resume.pdf) section on the website.
+You can download my resume from the [Resume](./Anirudh_Software_Resume.pdf) section on the website.
 
 ---
 
