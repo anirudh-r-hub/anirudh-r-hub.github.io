@@ -1,11 +1,6 @@
 # 👋 Welcome to My Portfolio Website
 
 Hi, I'm Anirudh Ramani – a passionate software developer with a strong interest in building impactful, user-friendly applications. This website is a showcase of my projects, skills, and experience.
-
-## 🔍 About Me
-
-I am a Computer Science graduate with experience in C++, Java, Python, R, Spring Boot, React, Docker, My SQL, MongoDB, AWS, Jenkins. I'm always excited to learn new technologies and contribute to meaningful projects.
-
 - 🛠️ Skills: C, C++, Java, Python, HTML, CSS, JavaScript, JUnit, JSP, AWS, MySQL, PostgreSQL, MongoDB, R, SQLite, Jenkins, Groovy, Mockito, MQTT,  Android development, Prometheus, Grafana, Spring Boot, Django, Docker, Kafka, React
 - 💼 Currently: Seeking full-time opportunities in India
 - 👤 LinkedIn Profile: [anirudh-ramani](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
