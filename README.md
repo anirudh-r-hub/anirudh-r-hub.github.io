@@ -1,41 +1,60 @@
-
-
 # 👋 Welcome to My Portfolio Website
 
 Hi, I'm Anirudh Ramani – a passionate software developer with a strong interest in building impactful, user-friendly applications. This website is a showcase of my projects, skills, and experience.
 
-🌐 **Website:** [https://your-username.github.io/](https://your-username.github.io/)
-
 ## 🔍 About Me
 
-I am a Computer Science graduate with experience in [your areas of expertise, e.g., full-stack development, machine learning, etc.]. I'm always excited to learn new technologies and contribute to meaningful projects.
+I am a Computer Science graduate with experience in C++, Java, Python, R, Spring Boot, React, Docker, My SQL, MongoDB, AWS, Jenkins. I'm always excited to learn new technologies and contribute to meaningful projects.
 
-- 🎓 Education: [Your degree and university]
-- 🛠️ Skills: [List of key skills: e.g., JavaScript, React, Python, Node.js, SQL]
-- 💼 Currently: [e.g., Seeking full-time opportunities / Working as a developer at XYZ]
-- 📫 Contact: [Your email or LinkedIn profile]
+- 🛠️ Skills: C, C++, Java, Python, HTML, CSS, JavaScript, JUnit, JSP, AWS, MySQL, PostgreSQL, MongoDB, R, SQLite, Jenkins, Groovy, Mockito, MQTT,  Android development, Prometheus, Grafana, Spring Boot, Django, Docker, Kafka, React
+- 💼 Currently: Seeking full-time opportunities in India
+- 📫 Contact: https://www.linkedin.com/in/anirudh-ramani-25b23618b/
+  
+## 🎓 Education
+
+- **MS**, Computer Science  
+  UC Davis, California, USA  
+  September, 2023 – December, 2024
+
+- **B.E.**, Information Technology  
+  Pune Institute of Computer Technology, Pune  
+  August, 2016 – April, 2020
+
+## 💼 Experience
+
+- **Teaching Assistant for ECS 150(Operating Systems)**  
+  **UC Davis**, USA  
+  _[April, 2024] – [December, 2024]_  
+  - C++, Shell, Docker
+
+- **Java Developer**  
+  **Barclays**, Pune  
+  _[August, 2020] – [August, 2023]_  
+  - **Tech Stack:** Java, Spring Boot, Jenkins, AWS, SonarQube, Docker
+    
+- **Software Engineering Intern**  
+  **Siemens PLM**, Pune  
+  _[August, 2020] – [August, 2023]_  
+  - **Tech Stack:** Python, Prometheus, Grafana
 
 ## 🚀 Projects
 
 Here are some of the projects featured on my website:
 
-### 🧠 Project 1 - [Project Title]
-- **Description:** Brief summary of the project
-- **Tech Stack:** React, Node.js, MongoDB
-- **GitHub:** [link to repository]
-- **Live Demo:** [link if hosted]
+### 🧠 Project 1 - Job Listing Application
+- **Description:** This is a containerised full stack application which allows you to keep track of the jobs you have applied for.
+- **Tech Stack:** React, Spring Boot, MySQL, Docker
+- **GitHub:** https://github.com/anirudh-r-hub/joblist
 
-### 📊 Project 2 - [Project Title]
-- **Description:** Brief summary of the project
-- **Tech Stack:** Python, Pandas, Matplotlib
-- **GitHub:** [link to repository]
+### 📊 Project 2 - IoT Based Home Automation System
+- **Description:** This is a small IoT system to control household appliances using an Android App
+- **Tech Stack:** Python, C++, Java, Android Studio, MQTT, Arduino
 
-### 📂 Project 3 - [Project Title]
-- **Description:** Brief summary of the project
-- **Tech Stack:** Java, Spring Boot
-- **GitHub:** [link to repository]
+### 📂 Project 3 - PDFReadAloud
+- **Description:** An android application which reads out uploaded PDFs.
+- **Tech Stack:** Java, Android Studio, Google Text to Speech Library.
+- **GitHub:** https://github.com/anirudh-r-hub/PdfReader  
 
-> For more details, please visit the **Projects** section of the website.
 
 ## 📄 Resume
 
