@@ -8,24 +8,24 @@ I am a Computer Science graduate with experience in C++, Java, Python, R, Spring
 
 - 🛠️ Skills: C, C++, Java, Python, HTML, CSS, JavaScript, JUnit, JSP, AWS, MySQL, PostgreSQL, MongoDB, R, SQLite, Jenkins, Groovy, Mockito, MQTT,  Android development, Prometheus, Grafana, Spring Boot, Django, Docker, Kafka, React
 - 💼 Currently: Seeking full-time opportunities in India
-- 👤 Profile: [LinkedIn](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
+- 👤 LinkedIn Profile: [anirudh-ramani](https://www.linkedin.com/in/anirudh-ramani-25b23618b/)
   
 ## 🎓 Education
 
 - **MS**, Computer Science  
   UC Davis, California, USA  
-  September, 2023 – December, 2024
+  _[Sept, 2023] – [December, 2024]_
 
 - **B.E.**, Information Technology  
   Pune Institute of Computer Technology, Pune  
-  August, 2016 – April, 2020
+  _[August, 2020] – [April, 2023]_
 
 ## 💼 Experience
 
 - **Teaching Assistant for ECS 150(Operating Systems)**  
   **UC Davis**, USA  
   _[April, 2024] – [December, 2024]_  
-  - C++, Shell, Docker
+  - **Tech Stack:** C++, Shell, Docker
 
 - **Java Developer**  
   **Barclays**, Pune  
